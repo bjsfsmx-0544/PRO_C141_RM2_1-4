@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
+# -*- codificación: utf-8 -*-
 """
-Created on Fri Oct 16 17:02:40 2020
+Creado el viernes 16 de octubre del 2020. 17:02:40.
 
-@author: Vishal
+Autor: Vishal
 """
 
 from bs4 import BeautifulSoup as bs
